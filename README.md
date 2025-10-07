@@ -1,1 +1,1 @@
-# wp-hooks-contracts
+# WP Hooks Wrapper
